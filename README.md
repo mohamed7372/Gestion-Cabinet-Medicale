@@ -1,5 +1,5 @@
 # Gestion-Cabinet-Medicale
-after I'll add the code in java because I'm working it right now so I'll show you just images
+A medical practice management system is a type of healthcare software that manages the day-to-day operations of a clinic, such as appointment scheduling, billing and other administrative tasks.
 
 ![2_login_connection ressite](https://user-images.githubusercontent.com/40955969/87591871-4b3a1a00-c6e9-11ea-8eb5-77c37212b5e4.png)
 
